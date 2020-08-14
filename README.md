@@ -1,4 +1,2 @@
 # Mecharaf
-Codes for a website, www.mecharaf.wordpress.com
-
-This is a legacy project. I do want to delete it.
+A wordpress site rebuilt with frontity, a react framework
